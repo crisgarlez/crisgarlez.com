@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Cristhian García Vélez',
   author: 'crisgarlez',
   headerTitle: 'Cristhian García Vélez',
-  description: 'Welcome to my personal blog',
+  description: 'Digital garden',
   language: 'en-us',
   siteUrl: 'https://crisgarlez.com',
   siteRepo: 'https://github.com/crisgarlez/crisgarlez.com',
