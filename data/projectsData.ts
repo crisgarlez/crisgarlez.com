@@ -1,7 +1,7 @@
 const projectsData = [
   {
     title: 'Abianic',
-    description: `Servicios tecnológicos al servicio de la salud. Conectamos a pacientes, médicos, proveedores organizaciones en un solo entorno virtual, moderno y amigable.`,
+    description: `Servicios tecnológicos al servicio de la salud. Conectamos a pacientes, médicos, proveedores y organizaciones en un solo entorno virtual, moderno y amigable.`,
     imgSrc: '/static/images/abianic.png',
     href: 'https://abianic.com/',
   },
