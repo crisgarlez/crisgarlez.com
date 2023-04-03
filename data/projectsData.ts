@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Abianic',
+    description: `Servicios tecnológicos al servicio de la salud. Conectamos a pacientes, médicos, proveedores organizaciones en un solo entorno virtual, moderno y amigable.`,
+    imgSrc: '/static/images/abianic.png',
+    href: 'https://abianic.com/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Instinto Digital',
+    description: `Soluciones Digitales para tu emprendimiento. Somos una agencia de productos digitales, con un conjunto único de habilidades en el desarrollo de software, sitios web y aplicaciones móviles.`,
+    imgSrc: '/static/images/instinto_digital.png',
+    href: 'https://www.instinto.digital/',
   },
 ]
 
